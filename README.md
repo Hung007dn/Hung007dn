@@ -1,3 +1,5 @@
+Xin chào mọi người, hiện mình là sinh viên năm 3 ngành An toàn thông tin, Trường Đại học CNKT Tp HCM (HCMUTE)
+Cảm ơn đã ghé profile mình nhé <3
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hungtv7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-tr%E1%BB%8Dng-h%C6%B0ng-557b3a427/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/vutronghung1704/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anhbahung1110@gmail.com) 
